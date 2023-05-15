@@ -1,2 +1,23 @@
-# shapeMatch-DTW
-Shape matching using a Dynamic Time Warping (DTW) algorithm
+# Shape Matching using a Dynamic Time Warping Algorithm
+
+
+## Project Description:
+
+
+
+## Features:
+
+
+
+## Usage:
+
+
+
+## Examples:
+
+
+
+## Authors:
+
+
+## Acknowledgments:
