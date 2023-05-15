@@ -1,23 +1,23 @@
-# Shape Matching using a Dynamic Time Warping Algorithm
+## Shape Matching using a Dynamic Time Warping Algorithm
 
 
-## Project Description:
-
-
-
-## Features:
+### Project Description:
 
 
 
-## Usage:
+### Features:
 
 
 
-## Examples:
+### Usage:
 
 
 
-## Authors:
+### Examples:
 
 
-## Acknowledgments:
+
+### Authors:
+
+
+### Acknowledgments:
